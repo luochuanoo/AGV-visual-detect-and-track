@@ -1,3 +1,3 @@
 # AGV-visual-detect-and-track
-Object detect Implementation by SSD net on libtorch
-Object track Implementation by KCF
+1/Object detect Implementation by SSD net on libtorch
+2/Object track Implementation by KCF
